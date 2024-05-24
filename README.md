@@ -1,7 +1,7 @@
 # Unity Exploration Game
 
 <!-- Add Unity logo image -->
-<img src=""C:\Users\amana\Downloads\unityE.jpg"" alt="Unity Logo" width="100">
+<img src="C:\Users\amana\Downloads\unityE.jpg" alt="Unity Logo" width="100">
 
 A simple Unity project featuring a player exploring a terrain environment.
 
